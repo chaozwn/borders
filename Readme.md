@@ -10,3 +10,8 @@ brew install borders
 ```shell
 git clone https://github.com/chaozwn/borders.git ~/.config/borders
 ```
+
+# 3.start borders
+```shell
+brew services start borders
+```
