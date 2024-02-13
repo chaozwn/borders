@@ -8,5 +8,5 @@ brew install borders
 
 # 2.clone code
 ```shell
-git clone https://github.com/chaozwn/skhd.git ~/.config/skhd
+git clone https://github.com/chaozwn/borders.git ~/.config/borders
 ```
